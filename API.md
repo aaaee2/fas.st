@@ -91,7 +91,7 @@ HTTP-заголовки:
 {
     "access_token": "foo",
     "username": "bar",
-    "url": "http://fas.st/1Lm49u"
+    "url": "http://fas.st/u-KvS"
 }
 ```
 
